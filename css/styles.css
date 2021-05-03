@@ -64,6 +64,18 @@ body {
 
 .features-tittle {
   font-family: "Montserrat";
+
+}
+.col-lg-4 img{
+  width:30%;
+  margin-bottom: 10%;
+}
+
+.features-subtitle p{
+  width:55%;
+  text-align: center;
+  margin: auto;
+  color:gray;
 }
 
 /* Testimonials */
@@ -139,7 +151,7 @@ body {
 
 /* Footer star */
 #footer{
-  background-color: #311d3f;
+  background-color: #16091f;
   padding: 2%;
 
 }
